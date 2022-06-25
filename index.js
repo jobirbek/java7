@@ -1,4 +1,4 @@
 
-
-a = 25
-console.log(Number.parseInt[a / 2])
+a ="be coder"
+b ="jobir"
+console.log[a]
