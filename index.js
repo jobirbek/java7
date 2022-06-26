@@ -14,3 +14,5 @@
 // console.log(Number.parseInt(a / 2))
 a= 5
 bismillah
+jobir
+1234
