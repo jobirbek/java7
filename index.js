@@ -13,4 +13,4 @@
 // console.log(Number.parseFloat(a / 2))
 // console.log(Number.parseInt(a / 2))
 a= 5
-console.log(a * 3)
+bismillah
